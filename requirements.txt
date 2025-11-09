@@ -1,0 +1,32 @@
+# Core Data Processing
+pyarrow>=14.0.1
+pandas>=2.1.4
+numpy>=1.26.2
+
+# TikTok Scraping
+playwright>=1.40.0
+tiktokapipy>=0.2.3
+requests>=2.31.0
+httpx>=0.25.2
+
+# Data Storage & Compression
+fastparquet>=2023.10.1
+python-snappy>=0.6.1
+lz4>=4.3.2
+
+# Analytics & ML
+scikit-learn>=1.3.2
+matplotlib>=3.8.2
+seaborn>=0.13.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.5.3
+tenacity>=8.2.3
+rich>=13.7.0
+tqdm>=4.66.1
+
+# Testing
+pytest>=7.4.3
+pytest-asyncio>=0.21.1
+pytest-cov>=4.1.0
