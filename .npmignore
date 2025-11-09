@@ -1,0 +1,41 @@
+# Source files
+src/
+tests/
+examples/
+
+# Config files
+tsconfig.json
+.eslintrc.json
+.prettierrc
+jest.config.js
+
+# Git
+.git/
+.gitignore
+
+# CI/CD
+.github/
+.travis.yml
+.circleci/
+
+# Documentation (keep README.md)
+docs/
+
+# Data
+data/
+
+# Development
+node_modules/
+coverage/
+.vscode/
+.idea/
+*.log
+
+# Environment
+.env
+.env.*
+
+# Temporary
+tmp/
+temp/
+*.tmp
