@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/ARCHITECTURE.md << 'ENDOFFILE'
 # TT-Search Architecture
 
 ## Overview
@@ -333,5 +332,3 @@ docker run -it tt-search
 **Last Updated**: 2024-11-08  
 **Version**: 1.0.0  
 **Author**: Brashkie
-ENDOFFILE
-ls -lh /mnt/user-data/outputs/ARCHITECTURE.md
